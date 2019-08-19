@@ -9,5 +9,7 @@ public class AgendamentoFacilApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AgendamentoFacilApplication.class, args);
 	}
-
+	/**Teste de senha**/
+	//String senhaEncoded = SenhaUtils.gerarBCrypt ( "123456" );
+	//boolean senhaValida = SenhaUtils . senhaValida ( "123456" , senhaEncoded );
 }
